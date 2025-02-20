@@ -17,11 +17,17 @@ Provides enhanced cybersecurity by reducing user exposure to phishing threats.
 
 ## Requirements
 *Random Forest Classifier – Uses an ensemble of decision trees to improve accuracy and reduce overfitting.
+
 *Decision Tree Classifier – A tree-based model that splits data based on feature conditions for classification.
+
 *Logistic Regression – A statistical model used for binary classification of phishing and legitimate websites.
+
 *AdaBoost Classifier – An adaptive boosting technique that improves weak learners to enhance classification performance.
+
 *Gradient Boosting – A boosting algorithm that builds models sequentially to minimize errors and improve accuracy.
+
 *K-Nearest Neighbors (KNN) – A distance-based algorithm that classifies websites based on similarity to neighbors.
+
 *Support Vector Machine (SVM) – A classification model that finds the optimal decision boundary for phishing detection.
 
 ## System Architecture
