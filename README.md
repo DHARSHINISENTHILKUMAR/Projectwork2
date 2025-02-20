@@ -7,12 +7,19 @@ This project utilizes a dataset containing multiple attributes that indicate whe
 
 ## Features
 Implements machine learning algorithms for phishing website detection.
+
 Analyzes multiple website attributes, including URL structure, HTTPS usage, and domain details.
+
 High accuracy in detecting phishing websites based on trained models.
+
 A framework-based application for easy deployment and integration.
+
 Low time complexity for real-time phishing detection.
+
 Scalable solution capable of handling large datasets.
+
 Automated classification of websites into phishing or legitimate categories.
+
 Provides enhanced cybersecurity by reducing user exposure to phishing threats.
 
 ## Requirements
