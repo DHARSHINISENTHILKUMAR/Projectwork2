@@ -38,9 +38,8 @@ Provides enhanced cybersecurity by reducing user exposure to phishing threats.
 *Support Vector Machine (SVM) – A classification model that finds the optimal decision boundary for phishing detection.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/user-attachments/assets/0dabe10b-1b71-47fb-8021-65edef8895df)
 
 
 ## Output
